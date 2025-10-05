@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Stokvel_backend.props" />
+</Project>
