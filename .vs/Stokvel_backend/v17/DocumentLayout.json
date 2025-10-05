@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|c:\\users\\palesa\\documents\\2025\\stokvel_backend\\stokvel_backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|solutionrelative:stokvel_backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|c:\\users\\palesa\\documents\\2025\\stokvel_backend\\stokvel_backend\\stokvel_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|solutionrelative:stokvel_backend\\stokvel_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\Stokvel_backend.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stokvel_backend\\Stokvel_backend.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|c:\\users\\palesa\\documents\\2025\\stokvel_backend\\stokvel_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|solutionrelative:stokvel_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|c:\\users\\palesa\\documents\\2025\\stokvel_backend\\stokvel_backend\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|solutionrelative:stokvel_backend\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|c:\\users\\palesa\\documents\\2025\\stokvel_backend\\stokvel_backend\\data\\appdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|solutionrelative:stokvel_backend\\data\\appdbcontextcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|c:\\users\\palesa\\documents\\2025\\stokvel_backend\\stokvel_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|solutionrelative:stokvel_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|c:\\users\\palesa\\documents\\2025\\stokvel_backend\\stokvel_backend\\controllers\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A146789D-8C76-4264-B5B0-9908D517E782}|Stokvel_backend\\Stokvel_backend.csproj|solutionrelative:stokvel_backend\\controllers\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Stokvel_backend\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\WeatherForecast.cs",
+              "RelativeToolTip": "Stokvel_backend\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:20:24.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stokvel_backend.http",
+              "DocumentMoniker": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\Stokvel_backend.http",
+              "RelativeDocumentMoniker": "Stokvel_backend\\Stokvel_backend.http",
+              "ToolTip": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\Stokvel_backend.http",
+              "RelativeToolTip": "Stokvel_backend\\Stokvel_backend.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-05T21:20:24.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stokvel_backend.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\Stokvel_backend.csproj.user",
+              "RelativeDocumentMoniker": "Stokvel_backend\\Stokvel_backend.csproj.user",
+              "ToolTip": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\Stokvel_backend.csproj.user",
+              "RelativeToolTip": "Stokvel_backend\\Stokvel_backend.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-10-05T21:20:24.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Stokvel_backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\appsettings.json",
+              "RelativeToolTip": "Stokvel_backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-05T18:58:08.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextcs.cs",
+              "DocumentMoniker": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\Data\\AppDbContextcs.cs",
+              "RelativeDocumentMoniker": "Stokvel_backend\\Data\\AppDbContextcs.cs",
+              "ToolTip": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\Data\\AppDbContextcs.cs",
+              "RelativeToolTip": "Stokvel_backend\\Data\\AppDbContextcs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:10:23.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "Stokvel_backend\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\Models\\Models.cs",
+              "RelativeToolTip": "Stokvel_backend\\Models\\Models.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAA3wI4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:46:17.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Meeting.cs",
+              "DocumentMoniker": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\Controllers\\Meeting.cs",
+              "RelativeDocumentMoniker": "Stokvel_backend\\Controllers\\Meeting.cs",
+              "ToolTip": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\Controllers\\Meeting.cs",
+              "RelativeToolTip": "Stokvel_backend\\Controllers\\Meeting.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAAwMMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:25:34.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\Program.cs",
+              "RelativeDocumentMoniker": "Stokvel_backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Palesa\\Documents\\2025\\Stokvel_backend\\Stokvel_backend\\Program.cs",
+              "RelativeToolTip": "Stokvel_backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:25:02.559Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
